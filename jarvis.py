@@ -47,3 +47,5 @@ def takeCommand():
 if __name__ == "__main__":
     wishMe()  
     takeCommand()
+    
+''' my name is manish kumar and i want to change some of part'''
